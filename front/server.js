@@ -1,3 +1,4 @@
+//laupardo: en el momento en el que hice el codereview, la página estaba caida. Depronto es un error por aca?
 const express = require("express");
 const next = require("next");
 const nextI18NextMiddleware = require("next-i18next/middleware").default;
